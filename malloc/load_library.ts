@@ -1,4 +1,4 @@
-import { _load } from './_load_library.js';
+import { _load } from './_load_library.ts';
 
 function load() {
 

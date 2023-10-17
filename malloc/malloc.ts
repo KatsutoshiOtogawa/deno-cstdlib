@@ -1,4 +1,4 @@
-import { load } from './load_library.js';
+import { load } from './load_library.ts';
 
 type size_t = number;
 

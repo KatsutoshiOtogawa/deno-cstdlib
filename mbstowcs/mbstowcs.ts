@@ -1,4 +1,4 @@
-import { load } from './load_library_msvcrt.ts';
+import { load } from './load_library.ts';
 import { size_t } from "../size_t/size_t.ts";
 
 
@@ -6,7 +6,7 @@ import { size_t } from "../size_t/size_t.ts";
 
 /**
  * 
- * @param wchar wide character
+ * @param wchar wide character string
  * @param str  
  * @param size count bite.
  * @returns 

@@ -1,4 +1,4 @@
-import { load } from "./load_library_msvcrt.ts";
+import { load } from "./load_library.ts";
 
 function puts(mes: Uint8Array): number | undefined {
     const { puts, library} = load();

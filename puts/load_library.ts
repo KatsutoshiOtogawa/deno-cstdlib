@@ -1,4 +1,4 @@
-import { _load } from './_load_library_msvcrt.ts';
+import { _load } from './_load_library.ts';
 
 function load() {
 
